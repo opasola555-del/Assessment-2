@@ -514,7 +514,7 @@ grid-column: 1 / -1;
 flex-direction: column;
 }
 }
-.logo img {
+.navbar img {
   width: 120px;
   height: auto;
   display: block;
